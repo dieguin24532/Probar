@@ -23,7 +23,7 @@ namespace Probar
             doc.Bookmarks["CarreraCoordinador"].SetText("Dieguin");
             //t1.Text = doc.Bookmarks["Cuerpo1"].Paragraph.Text;
             doc.SaveAs(Server.MapPath("Auxiliar2.docx"));
-
+            //hola bebecita
 
 
 
